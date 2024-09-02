@@ -9,9 +9,9 @@
 
 •	Project Steps
 1. From Business Description to ERD
-Understand Requirements: Thoroughly review the business requirements document to understand the entities, relationships, and constraints.
-Identify Entities and Relationships: Determine the key entities (e.g., employees, departments) and their relationships (e.g., employees belong to departments).
-Create ERD: Use an ERD tool (like Microsoft Visio, Lucidchart, or an online ERD tool) to create a visual representation of the entities, their attributes, and relationships.
+  Understand Requirements: Thoroughly review the business requirements document to understand the entities, relationships, and constraints.
+  Identify Entities and Relationships: Determine the key entities (e.g., employees, departments) and their relationships (e.g., employees belong to departments).
+  Create ERD: Use an ERD tool (like Microsoft Visio, Lucidchart, or an online ERD tool) to create a visual representation of the entities, their attributes, and      their relationships.
 2. To Mapping
 Map Entities to Tables: Convert the entities identified in the ERD into database tables.
 Define Attributes and Data Types: Determine the columns for each table based on the attributes from the ERD and assign appropriate data types.
